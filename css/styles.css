@@ -27,3 +27,9 @@
 .masthead{
 
 }
+.border-big{
+border-style: dotted;
+border-width: 6px;
+border-color: #43227f;
+padding: 20px;
+}
